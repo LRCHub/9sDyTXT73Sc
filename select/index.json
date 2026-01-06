@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星になった日",
+  "base_artist": "ヒバナ",
+  "createdAt": "2026-01-06T05:19:34.571817Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星になった日",
+      "artist": "ヒバナ",
+      "has_synced": false,
+      "path": "select/pl_01_星になった日_ヒバナ.txt"
+    }
+  ]
+}
